@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qualquer1eumato&label=Profile%20views&color=0e75b6&style=flat" alt="qualquer1eumato" /> </p>
 
+- 🔭 I’m currently working on [GCWeb](https://github.com/kayrosdev/GCWEB)
+
 - 🔭 I’m currently working on [WebFy](https://github.com/andersomsousa1406/WebFyJS)
 
 - 📫 How to reach me **josuenunes074@gmail.com**
@@ -11,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/josué-oliveira-4a82061a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josué-oliveira-4a82061a5" height="30" width="40" /></a>
 <a href="https://fb.com/josue.nunes.54584" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josue.nunes.54584" height="30" width="40" /></a>
+<a href="https://instagram.com/josue_ol1v31r4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josu_ol1v31r4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

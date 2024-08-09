@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [WebFy](https://github.com/andersomsousa1406/WebFyJS)
 
-- 📫 How to reach me **josuenunes074@gmail.com**
+- 📫 How to reach me **josueoliveira.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
